@@ -1,0 +1,17 @@
+{
+  "name": "andy-node",
+  "version": "1.0.0",
+  "description": "Node server for Andy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@doist/todoist-api-typescript": "^2.1.2",
+    "express": "^4.18.2",
+    "firebase": "^10.3.0",
+    "firebase-admin": "^11.10.1"
+  }
+}
